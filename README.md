@@ -1,1 +1,1 @@
-# MyCv is one the personal projects that I started while learning
+# MyCv is one the personal projects
